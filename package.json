@@ -1,0 +1,21 @@
+{
+  "name": "owaisatm00",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "owaisatm00":"bin/index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "owais",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "node": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.13"
+  }
+}
